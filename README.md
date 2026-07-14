@@ -60,8 +60,10 @@ loan-approval-system/
     <td align="center"><b>Apply for Loan</b></td>
   </tr>
   <tr>
-    <td><img src="screenshots/employee-login.png" width="400"/></td>
-    <td><img src="screenshots/apply-for-loan.png" width="400"/></td>
+    <td><img src="<img width="1366" height="768" alt="14 07 2026_12 02 34_REC" src="https://github.com/user-attachments/assets/d8c06a69-d1fd-4374-93f8-eba29af044dc" />
+" width="400"/></td>
+    <td><img src="<img width="1363" height="727" alt="14 07 2026_12 03 44_REC" src="https://github.com/user-attachments/assets/15a8e2df-42f4-4796-848d-e6ec4443aaf9" />
+" width="400"/></td>
   </tr>
   <tr>
     <td align="center"><b>View Loan Status</b></td>
