@@ -151,6 +151,83 @@ streamlit run app.py
 5. Each panel (Employee / Manager) is fully isolated — selecting one view never shows the other's data, even if both roles are logged in within the same session.
 
 ---
+# 📸 Project Screenshots
+
+## Loan Approval System - User Interface
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🔐 Employee Login
+
+<img src="screenshots/14.07.2026_12.02.34_REC.png" width="100%">
+
+</td>
+
+<td align="center" width="50%">
+
+### 📝 Apply Loan
+
+<img src="screenshots/14.07.2026_12.03.44_REC.png" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📊 Loan Status
+
+<img src="screenshots/14.07.2026_12.04.11_REC.png" width="100%">
+
+</td>
+
+<td align="center">
+
+### 👨‍💼 Manager Dashboard
+
+<img src="screenshots/14.07.2026_12.05.43_REC.png" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ✅ Approve Loan
+
+<img src="screenshots/14.07.2026_12.06.11_REC.png" width="100%">
+
+</td>
+
+<td align="center">
+
+### 🚀 FastAPI Swagger API
+
+<img src="screenshots/14.07.2026_12.08.29_REC.png" width="100%">
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄️ Loan Database
+
+<img src="screenshots/14.07.2026_12.15.19_REC.png" width="100%">
+
+</td>
+
+<td align="center">
+
+### 🏦 Bank Database
+
+<img src="screenshots/14.07.2026_12.16.19_REC.png" width="100%">
+
+</td>
+</tr>
+</table>
 
 ## 📌 Notes
 
