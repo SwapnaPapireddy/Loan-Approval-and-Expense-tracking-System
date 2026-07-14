@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+sqlalchemy
+psycopg2-binary
+pydantic
+requests
+python-multipart
+pandas
