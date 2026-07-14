@@ -52,6 +52,45 @@ loan-approval-system/
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Employee Login</b></td>
+    <td align="center"><b>Apply for Loan</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/employee-login.png" width="400"/></td>
+    <td><img src="screenshots/apply-for-loan.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>View Loan Status</b></td>
+    <td align="center"><b>Manager Dashboard</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/view-loan-status.png" width="400"/></td>
+    <td><img src="screenshots/manager-dashboard.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Approve Loan</b></td>
+    <td align="center"><b>FastAPI Swagger Docs</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/approve-loan.png" width="400"/></td>
+    <td><img src="screenshots/api-docs.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Loans Table (PostgreSQL)</b></td>
+    <td align="center"><b>Bank Data Table (PostgreSQL)</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/loans-table.png" width="400"/></td>
+    <td><img src="screenshots/bankdata-table.png" width="400"/></td>
+  </tr>
+</table>
+
+---
+
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the repository
